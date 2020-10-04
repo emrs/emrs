@@ -4,6 +4,10 @@
 	<br>
 </section>
 
-Multi-technology Developer
-3D Vehicle Artist
-Former Designer
+<section id="description">
+	<ul>
+		<li>Multi-technology Developer</li>
+		<li>3D Vehicle Artist</li>
+		<li>Former Designer</li>
+	</ul>
+</section>

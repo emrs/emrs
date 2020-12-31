@@ -5,9 +5,12 @@
 </section>
 
 <h2>Programming</h2>
-*
+<p>Mostly in C#, formerly in Java.</p>
 
 <h2>Reverse engineering</h2>
-* B4W(Blend4Web)
+<ul>
+  <li>B4W Engine</li>
+  <li>IKA</li>
+</ul>
 
 <h2>Websites</h2>

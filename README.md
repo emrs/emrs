@@ -6,14 +6,8 @@
 
 <h2>Programming</h2>
 <p>Mostly in C#, formerly in Java.</p>
-
 <h2>Reverse engineering</h2>
 <ul>
   <li>B4W Engine</li>
-  <li>IKA</li>
-</ul>
-
-<h2>Websites</h2>
-<ul>
-  <li>Upcoming</li>
+  <li>iKnowAuto</li>
 </ul>

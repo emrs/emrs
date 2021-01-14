@@ -10,4 +10,5 @@
 <ul>
   <li>B4W Engine</li>
   <li>iKnowAuto</li>
+  <li>Innocean USA (Planning)</li>
 </ul>

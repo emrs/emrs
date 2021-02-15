@@ -10,5 +10,6 @@
 <ul>
   <li>B4W Engine</li>
   <li>iKnowAuto</li>
-  <li>Innocean USA (Planning)</li>
+  <li>Innocean USA</li>
+  <li>PlayCanvas (Planning)</li>
 </ul>

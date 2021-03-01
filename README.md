@@ -12,4 +12,5 @@
   <li>iKnowAuto</li>
   <li>Innocean USA</li>
   <li>PlayCanvas</li>
+  <li>RAGE Xbox (Planning)</li>
 </ul>

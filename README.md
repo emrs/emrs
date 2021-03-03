@@ -8,9 +8,9 @@
 <p>Mostly in C#, formerly in Java.</p>
 <h2>Reverse engineering</h2>
 <ul>
-  <li>B4W Engine</li>
+	<li><a href="https://www.blend4web.com/">B4W Engine</a></li>
   <li>iKnowAuto</li>
   <li>Innocean USA</li>
-  <li>PlayCanvas</li>
+	<li><a href="https://playcanvas.com/">PlayCanvas</a></li>
   <li>RAGE Xbox (Planning)</li>
 </ul>

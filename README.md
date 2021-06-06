@@ -1,6 +1,6 @@
 <section id="header">
 	<br>
-	    <img width="600" height="100" src="https://wexfy.com/apex/logo-github.svg">
+	    <img width="600" height="100" src="https://wexfy.com/apex/re-logo-github.svg">
 	<br>
 </section>
 
